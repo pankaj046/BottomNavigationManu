@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomMenu</string>
+
+    <string name="Birthday">Birthday</string>
+    <string name="Likes">Likes</string>
+    <string name="Good_day">Good Day</string>
+    <string name="run">Run</string>
+    <string name="people">People</string>
+</resources>

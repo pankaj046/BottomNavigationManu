@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/Birthday"
+        android:icon="@drawable/one"
+        android:id="@+id/m1" />
+
+    <item android:title="@string/Likes"
+        android:icon="@drawable/two"
+        android:id="@+id/m2" />
+
+    <item android:title="@string/Good_day"
+        android:icon="@drawable/three"
+        android:id="@+id/m3" />
+
+    <item android:title="@string/run"
+        android:icon="@drawable/four"
+        android:id="@+id/m4" />
+    <item android:title="@string/people"
+        android:icon="@drawable/five"
+        android:id="@+id/m5" />
+</menu>
